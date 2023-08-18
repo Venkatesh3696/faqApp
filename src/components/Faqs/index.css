@@ -1,0 +1,23 @@
+/* Write your code here. */
+.main-container {
+  background-color: #f1f4f8;
+  height: 100vh;
+  padding: 40px;
+}
+.inner-container {
+  background-color: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 10px;
+  padding: 20px;
+}
+.heading {
+  color: #cb8805;
+  font-family: 'Roboto';
+}
+.list-container {
+  list-style-type: none;
+}
